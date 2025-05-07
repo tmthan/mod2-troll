@@ -1,5 +1,5 @@
 {
-  "name": "mod-2",
+  "name": "mod2-troll",
   "version": "1.0.0",
   "description": "Library to get remainder when dividing by 2",
   "main": "dist/index.js",
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tmthan/mod-2.git"
+    "url": "git+https://github.com/tmthan/mod2-troll.git"
   },
   "keywords": [
     "mod-2"
@@ -19,9 +19,9 @@
   "author": "Than",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tmthan/mod-2.git/issues"
+    "url": "https://github.com/tmthan/mod2-troll.git/issues"
   },
-  "homepage": "https://github.com/tmthan/mod-2.git/div2#readme",
+  "homepage": "https://github.com/tmthan/mod2-troll.git#readme",
   "devDependencies": {
     "typescript": "5.8.3"
   }
