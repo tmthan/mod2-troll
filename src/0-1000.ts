@@ -1,4 +1,4 @@
-export function div2From0To1000(value: number): number {
+export function mod2From0To1000(value: number): number {
   if (value < 0 || value > 1000) {
     throw new Error("Value must be between 0 and 1000.");
   }
@@ -3008,4 +3008,4 @@ export function div2From0To1000(value: number): number {
 
   return 0;
 }
-export default div2From0To1000;
+export default mod2From0To1000;

@@ -1,6 +1,6 @@
-import div2From0To1000 from "./0-1000";
+import mod2From0To1000 from "./0-1000";
 
-export function div2(value: number): number {
+export function mod2(value: number): number {
   if (isNaN(Number(value))) {
     throw new Error("Value must be a valid number.");
   }
@@ -10,9 +10,9 @@ export function div2(value: number): number {
     );
   }
   if (value >= 0 && value <= 1000) {
-    return div2From0To1000(value);
+    return mod2From0To1000(value);
   }
   return 0;
 }
 
-export default div2;
+export default mod2;
