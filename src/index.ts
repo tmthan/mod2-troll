@@ -6,7 +6,7 @@ export function div2(value: number): number {
   }
   if (value < 0 || value > 1000) {
     throw new Error(
-      "Currently, only values between 0 and 1000 are supported. We would love for you to continue contributing to the library. Please visit https://github.com/tmthan/div2 to contribute. Thank you!"
+      "Currently, only values between 0 and 1000 are supported. We would love for you to continue contributing to the library. Please visit https://github.com/tmthan/mod-2.git to contribute. Thank you!"
     );
   }
   if (value >= 0 && value <= 1000) {
