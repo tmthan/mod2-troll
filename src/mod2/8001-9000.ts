@@ -1,4002 +1,4002 @@
 export function mod2From8001To9000(value: number): number {
     
-  if (value === 1001) {
+  if (value === 8001) {
     return 1;
   }
 
-  if (value === 1002) {
+  if (value === 8002) {
     return 0;
   }
 
-  if (value === 1003) {
+  if (value === 8003) {
     return 1;
   }
 
-  if (value === 1004) {
+  if (value === 8004) {
     return 0;
   }
 
-  if (value === 1005) {
+  if (value === 8005) {
     return 1;
   }
 
-  if (value === 1006) {
+  if (value === 8006) {
     return 0;
   }
 
-  if (value === 1007) {
+  if (value === 8007) {
     return 1;
   }
 
-  if (value === 1008) {
+  if (value === 8008) {
     return 0;
   }
 
-  if (value === 1009) {
+  if (value === 8009) {
     return 1;
   }
 
-  if (value === 1010) {
+  if (value === 8010) {
     return 0;
   }
 
-  if (value === 1011) {
+  if (value === 8011) {
     return 1;
   }
 
-  if (value === 1012) {
+  if (value === 8012) {
     return 0;
   }
 
-  if (value === 1013) {
+  if (value === 8013) {
     return 1;
   }
 
-  if (value === 1014) {
+  if (value === 8014) {
     return 0;
   }
 
-  if (value === 1015) {
+  if (value === 8015) {
     return 1;
   }
 
-  if (value === 1016) {
+  if (value === 8016) {
     return 0;
   }
 
-  if (value === 1017) {
+  if (value === 8017) {
     return 1;
   }
 
-  if (value === 1018) {
+  if (value === 8018) {
     return 0;
   }
 
-  if (value === 1019) {
+  if (value === 8019) {
     return 1;
   }
 
-  if (value === 1020) {
+  if (value === 8020) {
     return 0;
   }
 
-  if (value === 1021) {
+  if (value === 8021) {
     return 1;
   }
 
-  if (value === 1022) {
+  if (value === 8022) {
     return 0;
   }
 
-  if (value === 1023) {
+  if (value === 8023) {
     return 1;
   }
 
-  if (value === 1024) {
+  if (value === 8024) {
     return 0;
   }
 
-  if (value === 1025) {
+  if (value === 8025) {
     return 1;
   }
 
-  if (value === 1026) {
+  if (value === 8026) {
     return 0;
   }
 
-  if (value === 1027) {
+  if (value === 8027) {
     return 1;
   }
 
-  if (value === 1028) {
+  if (value === 8028) {
     return 0;
   }
 
-  if (value === 1029) {
+  if (value === 8029) {
     return 1;
   }
 
-  if (value === 1030) {
+  if (value === 8030) {
     return 0;
   }
 
-  if (value === 1031) {
+  if (value === 8031) {
     return 1;
   }
 
-  if (value === 1032) {
+  if (value === 8032) {
     return 0;
   }
 
-  if (value === 1033) {
+  if (value === 8033) {
     return 1;
   }
 
-  if (value === 1034) {
+  if (value === 8034) {
     return 0;
   }
 
-  if (value === 1035) {
+  if (value === 8035) {
     return 1;
   }
 
-  if (value === 1036) {
+  if (value === 8036) {
     return 0;
   }
 
-  if (value === 1037) {
+  if (value === 8037) {
     return 1;
   }
 
-  if (value === 1038) {
+  if (value === 8038) {
     return 0;
   }
 
-  if (value === 1039) {
+  if (value === 8039) {
     return 1;
   }
 
-  if (value === 1040) {
+  if (value === 8040) {
     return 0;
   }
 
-  if (value === 1041) {
+  if (value === 8041) {
     return 1;
   }
 
-  if (value === 1042) {
+  if (value === 8042) {
     return 0;
   }
 
-  if (value === 1043) {
+  if (value === 8043) {
     return 1;
   }
 
-  if (value === 1044) {
+  if (value === 8044) {
     return 0;
   }
 
-  if (value === 1045) {
+  if (value === 8045) {
     return 1;
   }
 
-  if (value === 1046) {
+  if (value === 8046) {
     return 0;
   }
 
-  if (value === 1047) {
+  if (value === 8047) {
     return 1;
   }
 
-  if (value === 1048) {
+  if (value === 8048) {
     return 0;
   }
 
-  if (value === 1049) {
+  if (value === 8049) {
     return 1;
   }
 
-  if (value === 1050) {
+  if (value === 8050) {
     return 0;
   }
 
-  if (value === 1051) {
+  if (value === 8051) {
     return 1;
   }
 
-  if (value === 1052) {
+  if (value === 8052) {
     return 0;
   }
 
-  if (value === 1053) {
+  if (value === 8053) {
     return 1;
   }
 
-  if (value === 1054) {
+  if (value === 8054) {
     return 0;
   }
 
-  if (value === 1055) {
+  if (value === 8055) {
     return 1;
   }
 
-  if (value === 1056) {
+  if (value === 8056) {
     return 0;
   }
 
-  if (value === 1057) {
+  if (value === 8057) {
     return 1;
   }
 
-  if (value === 1058) {
+  if (value === 8058) {
     return 0;
   }
 
-  if (value === 1059) {
+  if (value === 8059) {
     return 1;
   }
 
-  if (value === 1060) {
+  if (value === 8060) {
     return 0;
   }
 
-  if (value === 1061) {
+  if (value === 8061) {
     return 1;
   }
 
-  if (value === 1062) {
+  if (value === 8062) {
     return 0;
   }
 
-  if (value === 1063) {
+  if (value === 8063) {
     return 1;
   }
 
-  if (value === 1064) {
+  if (value === 8064) {
     return 0;
   }
 
-  if (value === 1065) {
+  if (value === 8065) {
     return 1;
   }
 
-  if (value === 1066) {
+  if (value === 8066) {
     return 0;
   }
 
-  if (value === 1067) {
+  if (value === 8067) {
     return 1;
   }
 
-  if (value === 1068) {
+  if (value === 8068) {
     return 0;
   }
 
-  if (value === 1069) {
+  if (value === 8069) {
     return 1;
   }
 
-  if (value === 1070) {
+  if (value === 8070) {
     return 0;
   }
 
-  if (value === 1071) {
+  if (value === 8071) {
     return 1;
   }
 
-  if (value === 1072) {
+  if (value === 8072) {
     return 0;
   }
 
-  if (value === 1073) {
+  if (value === 8073) {
     return 1;
   }
 
-  if (value === 1074) {
+  if (value === 8074) {
     return 0;
   }
 
-  if (value === 1075) {
+  if (value === 8075) {
     return 1;
   }
 
-  if (value === 1076) {
+  if (value === 8076) {
     return 0;
   }
 
-  if (value === 1077) {
+  if (value === 8077) {
     return 1;
   }
 
-  if (value === 1078) {
+  if (value === 8078) {
     return 0;
   }
 
-  if (value === 1079) {
+  if (value === 8079) {
     return 1;
   }
 
-  if (value === 1080) {
+  if (value === 8080) {
     return 0;
   }
 
-  if (value === 1081) {
+  if (value === 8081) {
     return 1;
   }
 
-  if (value === 1082) {
+  if (value === 8082) {
     return 0;
   }
 
-  if (value === 1083) {
+  if (value === 8083) {
     return 1;
   }
 
-  if (value === 1084) {
+  if (value === 8084) {
     return 0;
   }
 
-  if (value === 1085) {
+  if (value === 8085) {
     return 1;
   }
 
-  if (value === 1086) {
+  if (value === 8086) {
     return 0;
   }
 
-  if (value === 1087) {
+  if (value === 8087) {
     return 1;
   }
 
-  if (value === 1088) {
+  if (value === 8088) {
     return 0;
   }
 
-  if (value === 1089) {
+  if (value === 8089) {
     return 1;
   }
 
-  if (value === 1090) {
+  if (value === 8090) {
     return 0;
   }
 
-  if (value === 1091) {
+  if (value === 8091) {
     return 1;
   }
 
-  if (value === 1092) {
+  if (value === 8092) {
     return 0;
   }
 
-  if (value === 1093) {
+  if (value === 8093) {
     return 1;
   }
 
-  if (value === 1094) {
+  if (value === 8094) {
     return 0;
   }
 
-  if (value === 1095) {
+  if (value === 8095) {
     return 1;
   }
 
-  if (value === 1096) {
+  if (value === 8096) {
     return 0;
   }
 
-  if (value === 1097) {
+  if (value === 8097) {
     return 1;
   }
 
-  if (value === 1098) {
+  if (value === 8098) {
     return 0;
   }
 
-  if (value === 1099) {
+  if (value === 8099) {
     return 1;
   }
 
-  if (value === 1100) {
+  if (value === 8100) {
     return 0;
   }
 
-  if (value === 1101) {
+  if (value === 8101) {
     return 1;
   }
 
-  if (value === 1102) {
+  if (value === 8102) {
     return 0;
   }
 
-  if (value === 1103) {
+  if (value === 8103) {
     return 1;
   }
 
-  if (value === 1104) {
+  if (value === 8104) {
     return 0;
   }
 
-  if (value === 1105) {
+  if (value === 8105) {
     return 1;
   }
 
-  if (value === 1106) {
+  if (value === 8106) {
     return 0;
   }
 
-  if (value === 1107) {
+  if (value === 8107) {
     return 1;
   }
 
-  if (value === 1108) {
+  if (value === 8108) {
     return 0;
   }
 
-  if (value === 1109) {
+  if (value === 8109) {
     return 1;
   }
 
-  if (value === 1110) {
+  if (value === 8110) {
     return 0;
   }
 
-  if (value === 1111) {
+  if (value === 8111) {
     return 1;
   }
 
-  if (value === 1112) {
+  if (value === 8112) {
     return 0;
   }
 
-  if (value === 1113) {
+  if (value === 8113) {
     return 1;
   }
 
-  if (value === 1114) {
+  if (value === 8114) {
     return 0;
   }
 
-  if (value === 1115) {
+  if (value === 8115) {
     return 1;
   }
 
-  if (value === 1116) {
+  if (value === 8116) {
     return 0;
   }
 
-  if (value === 1117) {
+  if (value === 8117) {
     return 1;
   }
 
-  if (value === 1118) {
+  if (value === 8118) {
     return 0;
   }
 
-  if (value === 1119) {
+  if (value === 8119) {
     return 1;
   }
 
-  if (value === 1120) {
+  if (value === 8120) {
     return 0;
   }
 
-  if (value === 1121) {
+  if (value === 8121) {
     return 1;
   }
 
-  if (value === 1122) {
+  if (value === 8122) {
     return 0;
   }
 
-  if (value === 1123) {
+  if (value === 8123) {
     return 1;
   }
 
-  if (value === 1124) {
+  if (value === 8124) {
     return 0;
   }
 
-  if (value === 1125) {
+  if (value === 8125) {
     return 1;
   }
 
-  if (value === 1126) {
+  if (value === 8126) {
     return 0;
   }
 
-  if (value === 1127) {
+  if (value === 8127) {
     return 1;
   }
 
-  if (value === 1128) {
+  if (value === 8128) {
     return 0;
   }
 
-  if (value === 1129) {
+  if (value === 8129) {
     return 1;
   }
 
-  if (value === 1130) {
+  if (value === 8130) {
     return 0;
   }
 
-  if (value === 1131) {
+  if (value === 8131) {
     return 1;
   }
 
-  if (value === 1132) {
+  if (value === 8132) {
     return 0;
   }
 
-  if (value === 1133) {
+  if (value === 8133) {
     return 1;
   }
 
-  if (value === 1134) {
+  if (value === 8134) {
     return 0;
   }
 
-  if (value === 1135) {
+  if (value === 8135) {
     return 1;
   }
 
-  if (value === 1136) {
+  if (value === 8136) {
     return 0;
   }
 
-  if (value === 1137) {
+  if (value === 8137) {
     return 1;
   }
 
-  if (value === 1138) {
+  if (value === 8138) {
     return 0;
   }
 
-  if (value === 1139) {
+  if (value === 8139) {
     return 1;
   }
 
-  if (value === 1140) {
+  if (value === 8140) {
     return 0;
   }
 
-  if (value === 1141) {
+  if (value === 8141) {
     return 1;
   }
 
-  if (value === 1142) {
+  if (value === 8142) {
     return 0;
   }
 
-  if (value === 1143) {
+  if (value === 8143) {
     return 1;
   }
 
-  if (value === 1144) {
+  if (value === 8144) {
     return 0;
   }
 
-  if (value === 1145) {
+  if (value === 8145) {
     return 1;
   }
 
-  if (value === 1146) {
+  if (value === 8146) {
     return 0;
   }
 
-  if (value === 1147) {
+  if (value === 8147) {
     return 1;
   }
 
-  if (value === 1148) {
+  if (value === 8148) {
     return 0;
   }
 
-  if (value === 1149) {
+  if (value === 8149) {
     return 1;
   }
 
-  if (value === 1150) {
+  if (value === 8150) {
     return 0;
   }
 
-  if (value === 1151) {
+  if (value === 8151) {
     return 1;
   }
 
-  if (value === 1152) {
+  if (value === 8152) {
     return 0;
   }
 
-  if (value === 1153) {
+  if (value === 8153) {
     return 1;
   }
 
-  if (value === 1154) {
+  if (value === 8154) {
     return 0;
   }
 
-  if (value === 1155) {
+  if (value === 8155) {
     return 1;
   }
 
-  if (value === 1156) {
+  if (value === 8156) {
     return 0;
   }
 
-  if (value === 1157) {
+  if (value === 8157) {
     return 1;
   }
 
-  if (value === 1158) {
+  if (value === 8158) {
     return 0;
   }
 
-  if (value === 1159) {
+  if (value === 8159) {
     return 1;
   }
 
-  if (value === 1160) {
+  if (value === 8160) {
     return 0;
   }
 
-  if (value === 1161) {
+  if (value === 8161) {
     return 1;
   }
 
-  if (value === 1162) {
+  if (value === 8162) {
     return 0;
   }
 
-  if (value === 1163) {
+  if (value === 8163) {
     return 1;
   }
 
-  if (value === 1164) {
+  if (value === 8164) {
     return 0;
   }
 
-  if (value === 1165) {
+  if (value === 8165) {
     return 1;
   }
 
-  if (value === 1166) {
+  if (value === 8166) {
     return 0;
   }
 
-  if (value === 1167) {
+  if (value === 8167) {
     return 1;
   }
 
-  if (value === 1168) {
+  if (value === 8168) {
     return 0;
   }
 
-  if (value === 1169) {
+  if (value === 8169) {
     return 1;
   }
 
-  if (value === 1170) {
+  if (value === 8170) {
     return 0;
   }
 
-  if (value === 1171) {
+  if (value === 8171) {
     return 1;
   }
 
-  if (value === 1172) {
+  if (value === 8172) {
     return 0;
   }
 
-  if (value === 1173) {
+  if (value === 8173) {
     return 1;
   }
 
-  if (value === 1174) {
+  if (value === 8174) {
     return 0;
   }
 
-  if (value === 1175) {
+  if (value === 8175) {
     return 1;
   }
 
-  if (value === 1176) {
+  if (value === 8176) {
     return 0;
   }
 
-  if (value === 1177) {
+  if (value === 8177) {
     return 1;
   }
 
-  if (value === 1178) {
+  if (value === 8178) {
     return 0;
   }
 
-  if (value === 1179) {
+  if (value === 8179) {
     return 1;
   }
 
-  if (value === 1180) {
+  if (value === 8180) {
     return 0;
   }
 
-  if (value === 1181) {
+  if (value === 8181) {
     return 1;
   }
 
-  if (value === 1182) {
+  if (value === 8182) {
     return 0;
   }
 
-  if (value === 1183) {
+  if (value === 8183) {
     return 1;
   }
 
-  if (value === 1184) {
+  if (value === 8184) {
     return 0;
   }
 
-  if (value === 1185) {
+  if (value === 8185) {
     return 1;
   }
 
-  if (value === 1186) {
+  if (value === 8186) {
     return 0;
   }
 
-  if (value === 1187) {
+  if (value === 8187) {
     return 1;
   }
 
-  if (value === 1188) {
+  if (value === 8188) {
     return 0;
   }
 
-  if (value === 1189) {
+  if (value === 8189) {
     return 1;
   }
 
-  if (value === 1190) {
+  if (value === 8190) {
     return 0;
   }
 
-  if (value === 1191) {
+  if (value === 8191) {
     return 1;
   }
 
-  if (value === 1192) {
+  if (value === 8192) {
     return 0;
   }
 
-  if (value === 1193) {
+  if (value === 8193) {
     return 1;
   }
 
-  if (value === 1194) {
+  if (value === 8194) {
     return 0;
   }
 
-  if (value === 1195) {
+  if (value === 8195) {
     return 1;
   }
 
-  if (value === 1196) {
+  if (value === 8196) {
     return 0;
   }
 
-  if (value === 1197) {
+  if (value === 8197) {
     return 1;
   }
 
-  if (value === 1198) {
+  if (value === 8198) {
     return 0;
   }
 
-  if (value === 1199) {
+  if (value === 8199) {
     return 1;
   }
 
-  if (value === 1200) {
+  if (value === 8200) {
     return 0;
   }
 
-  if (value === 1201) {
+  if (value === 8201) {
     return 1;
   }
 
-  if (value === 1202) {
+  if (value === 8202) {
     return 0;
   }
 
-  if (value === 1203) {
+  if (value === 8203) {
     return 1;
   }
 
-  if (value === 1204) {
+  if (value === 8204) {
     return 0;
   }
 
-  if (value === 1205) {
+  if (value === 8205) {
     return 1;
   }
 
-  if (value === 1206) {
+  if (value === 8206) {
     return 0;
   }
 
-  if (value === 1207) {
+  if (value === 8207) {
     return 1;
   }
 
-  if (value === 1208) {
+  if (value === 8208) {
     return 0;
   }
 
-  if (value === 1209) {
+  if (value === 8209) {
     return 1;
   }
 
-  if (value === 1210) {
+  if (value === 8210) {
     return 0;
   }
 
-  if (value === 1211) {
+  if (value === 8211) {
     return 1;
   }
 
-  if (value === 1212) {
+  if (value === 8212) {
     return 0;
   }
 
-  if (value === 1213) {
+  if (value === 8213) {
     return 1;
   }
 
-  if (value === 1214) {
+  if (value === 8214) {
     return 0;
   }
 
-  if (value === 1215) {
+  if (value === 8215) {
     return 1;
   }
 
-  if (value === 1216) {
+  if (value === 8216) {
     return 0;
   }
 
-  if (value === 1217) {
+  if (value === 8217) {
     return 1;
   }
 
-  if (value === 1218) {
+  if (value === 8218) {
     return 0;
   }
 
-  if (value === 1219) {
+  if (value === 8219) {
     return 1;
   }
 
-  if (value === 1220) {
+  if (value === 8220) {
     return 0;
   }
 
-  if (value === 1221) {
+  if (value === 8221) {
     return 1;
   }
 
-  if (value === 1222) {
+  if (value === 8222) {
     return 0;
   }
 
-  if (value === 1223) {
+  if (value === 8223) {
     return 1;
   }
 
-  if (value === 1224) {
+  if (value === 8224) {
     return 0;
   }
 
-  if (value === 1225) {
+  if (value === 8225) {
     return 1;
   }
 
-  if (value === 1226) {
+  if (value === 8226) {
     return 0;
   }
 
-  if (value === 1227) {
+  if (value === 8227) {
     return 1;
   }
 
-  if (value === 1228) {
+  if (value === 8228) {
     return 0;
   }
 
-  if (value === 1229) {
+  if (value === 8229) {
     return 1;
   }
 
-  if (value === 1230) {
+  if (value === 8230) {
     return 0;
   }
 
-  if (value === 1231) {
+  if (value === 8231) {
     return 1;
   }
 
-  if (value === 1232) {
+  if (value === 8232) {
     return 0;
   }
 
-  if (value === 1233) {
+  if (value === 8233) {
     return 1;
   }
 
-  if (value === 1234) {
+  if (value === 8234) {
     return 0;
   }
 
-  if (value === 1235) {
+  if (value === 8235) {
     return 1;
   }
 
-  if (value === 1236) {
+  if (value === 8236) {
     return 0;
   }
 
-  if (value === 1237) {
+  if (value === 8237) {
     return 1;
   }
 
-  if (value === 1238) {
+  if (value === 8238) {
     return 0;
   }
 
-  if (value === 1239) {
+  if (value === 8239) {
     return 1;
   }
 
-  if (value === 1240) {
+  if (value === 8240) {
     return 0;
   }
 
-  if (value === 1241) {
+  if (value === 8241) {
     return 1;
   }
 
-  if (value === 1242) {
+  if (value === 8242) {
     return 0;
   }
 
-  if (value === 1243) {
+  if (value === 8243) {
     return 1;
   }
 
-  if (value === 1244) {
+  if (value === 8244) {
     return 0;
   }
 
-  if (value === 1245) {
+  if (value === 8245) {
     return 1;
   }
 
-  if (value === 1246) {
+  if (value === 8246) {
     return 0;
   }
 
-  if (value === 1247) {
+  if (value === 8247) {
     return 1;
   }
 
-  if (value === 1248) {
+  if (value === 8248) {
     return 0;
   }
 
-  if (value === 1249) {
+  if (value === 8249) {
     return 1;
   }
 
-  if (value === 1250) {
+  if (value === 8250) {
     return 0;
   }
 
-  if (value === 1251) {
+  if (value === 8251) {
     return 1;
   }
 
-  if (value === 1252) {
+  if (value === 8252) {
     return 0;
   }
 
-  if (value === 1253) {
+  if (value === 8253) {
     return 1;
   }
 
-  if (value === 1254) {
+  if (value === 8254) {
     return 0;
   }
 
-  if (value === 1255) {
+  if (value === 8255) {
     return 1;
   }
 
-  if (value === 1256) {
+  if (value === 8256) {
     return 0;
   }
 
-  if (value === 1257) {
+  if (value === 8257) {
     return 1;
   }
 
-  if (value === 1258) {
+  if (value === 8258) {
     return 0;
   }
 
-  if (value === 1259) {
+  if (value === 8259) {
     return 1;
   }
 
-  if (value === 1260) {
+  if (value === 8260) {
     return 0;
   }
 
-  if (value === 1261) {
+  if (value === 8261) {
     return 1;
   }
 
-  if (value === 1262) {
+  if (value === 8262) {
     return 0;
   }
 
-  if (value === 1263) {
+  if (value === 8263) {
     return 1;
   }
 
-  if (value === 1264) {
+  if (value === 8264) {
     return 0;
   }
 
-  if (value === 1265) {
+  if (value === 8265) {
     return 1;
   }
 
-  if (value === 1266) {
+  if (value === 8266) {
     return 0;
   }
 
-  if (value === 1267) {
+  if (value === 8267) {
     return 1;
   }
 
-  if (value === 1268) {
+  if (value === 8268) {
     return 0;
   }
 
-  if (value === 1269) {
+  if (value === 8269) {
     return 1;
   }
 
-  if (value === 1270) {
+  if (value === 8270) {
     return 0;
   }
 
-  if (value === 1271) {
+  if (value === 8271) {
     return 1;
   }
 
-  if (value === 1272) {
+  if (value === 8272) {
     return 0;
   }
 
-  if (value === 1273) {
+  if (value === 8273) {
     return 1;
   }
 
-  if (value === 1274) {
+  if (value === 8274) {
     return 0;
   }
 
-  if (value === 1275) {
+  if (value === 8275) {
     return 1;
   }
 
-  if (value === 1276) {
+  if (value === 8276) {
     return 0;
   }
 
-  if (value === 1277) {
+  if (value === 8277) {
     return 1;
   }
 
-  if (value === 1278) {
+  if (value === 8278) {
     return 0;
   }
 
-  if (value === 1279) {
+  if (value === 8279) {
     return 1;
   }
 
-  if (value === 1280) {
+  if (value === 8280) {
     return 0;
   }
 
-  if (value === 1281) {
+  if (value === 8281) {
     return 1;
   }
 
-  if (value === 1282) {
+  if (value === 8282) {
     return 0;
   }
 
-  if (value === 1283) {
+  if (value === 8283) {
     return 1;
   }
 
-  if (value === 1284) {
+  if (value === 8284) {
     return 0;
   }
 
-  if (value === 1285) {
+  if (value === 8285) {
     return 1;
   }
 
-  if (value === 1286) {
+  if (value === 8286) {
     return 0;
   }
 
-  if (value === 1287) {
+  if (value === 8287) {
     return 1;
   }
 
-  if (value === 1288) {
+  if (value === 8288) {
     return 0;
   }
 
-  if (value === 1289) {
+  if (value === 8289) {
     return 1;
   }
 
-  if (value === 1290) {
+  if (value === 8290) {
     return 0;
   }
 
-  if (value === 1291) {
+  if (value === 8291) {
     return 1;
   }
 
-  if (value === 1292) {
+  if (value === 8292) {
     return 0;
   }
 
-  if (value === 1293) {
+  if (value === 8293) {
     return 1;
   }
 
-  if (value === 1294) {
+  if (value === 8294) {
     return 0;
   }
 
-  if (value === 1295) {
+  if (value === 8295) {
     return 1;
   }
 
-  if (value === 1296) {
+  if (value === 8296) {
     return 0;
   }
 
-  if (value === 1297) {
+  if (value === 8297) {
     return 1;
   }
 
-  if (value === 1298) {
+  if (value === 8298) {
     return 0;
   }
 
-  if (value === 1299) {
+  if (value === 8299) {
     return 1;
   }
 
-  if (value === 1300) {
+  if (value === 8300) {
     return 0;
   }
 
-  if (value === 1301) {
+  if (value === 8301) {
     return 1;
   }
 
-  if (value === 1302) {
+  if (value === 8302) {
     return 0;
   }
 
-  if (value === 1303) {
+  if (value === 8303) {
     return 1;
   }
 
-  if (value === 1304) {
+  if (value === 8304) {
     return 0;
   }
 
-  if (value === 1305) {
+  if (value === 8305) {
     return 1;
   }
 
-  if (value === 1306) {
+  if (value === 8306) {
     return 0;
   }
 
-  if (value === 1307) {
+  if (value === 8307) {
     return 1;
   }
 
-  if (value === 1308) {
+  if (value === 8308) {
     return 0;
   }
 
-  if (value === 1309) {
+  if (value === 8309) {
     return 1;
   }
 
-  if (value === 1310) {
+  if (value === 8310) {
     return 0;
   }
 
-  if (value === 1311) {
+  if (value === 8311) {
     return 1;
   }
 
-  if (value === 1312) {
+  if (value === 8312) {
     return 0;
   }
 
-  if (value === 1313) {
+  if (value === 8313) {
     return 1;
   }
 
-  if (value === 1314) {
+  if (value === 8314) {
     return 0;
   }
 
-  if (value === 1315) {
+  if (value === 8315) {
     return 1;
   }
 
-  if (value === 1316) {
+  if (value === 8316) {
     return 0;
   }
 
-  if (value === 1317) {
+  if (value === 8317) {
     return 1;
   }
 
-  if (value === 1318) {
+  if (value === 8318) {
     return 0;
   }
 
-  if (value === 1319) {
+  if (value === 8319) {
     return 1;
   }
 
-  if (value === 1320) {
+  if (value === 8320) {
     return 0;
   }
 
-  if (value === 1321) {
+  if (value === 8321) {
     return 1;
   }
 
-  if (value === 1322) {
+  if (value === 8322) {
     return 0;
   }
 
-  if (value === 1323) {
+  if (value === 8323) {
     return 1;
   }
 
-  if (value === 1324) {
+  if (value === 8324) {
     return 0;
   }
 
-  if (value === 1325) {
+  if (value === 8325) {
     return 1;
   }
 
-  if (value === 1326) {
+  if (value === 8326) {
     return 0;
   }
 
-  if (value === 1327) {
+  if (value === 8327) {
     return 1;
   }
 
-  if (value === 1328) {
+  if (value === 8328) {
     return 0;
   }
 
-  if (value === 1329) {
+  if (value === 8329) {
     return 1;
   }
 
-  if (value === 1330) {
+  if (value === 8330) {
     return 0;
   }
 
-  if (value === 1331) {
+  if (value === 8331) {
     return 1;
   }
 
-  if (value === 1332) {
+  if (value === 8332) {
     return 0;
   }
 
-  if (value === 1333) {
+  if (value === 8333) {
     return 1;
   }
 
-  if (value === 1334) {
+  if (value === 8334) {
     return 0;
   }
 
-  if (value === 1335) {
+  if (value === 8335) {
     return 1;
   }
 
-  if (value === 1336) {
+  if (value === 8336) {
     return 0;
   }
 
-  if (value === 1337) {
+  if (value === 8337) {
     return 1;
   }
 
-  if (value === 1338) {
+  if (value === 8338) {
     return 0;
   }
 
-  if (value === 1339) {
+  if (value === 8339) {
     return 1;
   }
 
-  if (value === 1340) {
+  if (value === 8340) {
     return 0;
   }
 
-  if (value === 1341) {
+  if (value === 8341) {
     return 1;
   }
 
-  if (value === 1342) {
+  if (value === 8342) {
     return 0;
   }
 
-  if (value === 1343) {
+  if (value === 8343) {
     return 1;
   }
 
-  if (value === 1344) {
+  if (value === 8344) {
     return 0;
   }
 
-  if (value === 1345) {
+  if (value === 8345) {
     return 1;
   }
 
-  if (value === 1346) {
+  if (value === 8346) {
     return 0;
   }
 
-  if (value === 1347) {
+  if (value === 8347) {
     return 1;
   }
 
-  if (value === 1348) {
+  if (value === 8348) {
     return 0;
   }
 
-  if (value === 1349) {
+  if (value === 8349) {
     return 1;
   }
 
-  if (value === 1350) {
+  if (value === 8350) {
     return 0;
   }
 
-  if (value === 1351) {
+  if (value === 8351) {
     return 1;
   }
 
-  if (value === 1352) {
+  if (value === 8352) {
     return 0;
   }
 
-  if (value === 1353) {
+  if (value === 8353) {
     return 1;
   }
 
-  if (value === 1354) {
+  if (value === 8354) {
     return 0;
   }
 
-  if (value === 1355) {
+  if (value === 8355) {
     return 1;
   }
 
-  if (value === 1356) {
+  if (value === 8356) {
     return 0;
   }
 
-  if (value === 1357) {
+  if (value === 8357) {
     return 1;
   }
 
-  if (value === 1358) {
+  if (value === 8358) {
     return 0;
   }
 
-  if (value === 1359) {
+  if (value === 8359) {
     return 1;
   }
 
-  if (value === 1360) {
+  if (value === 8360) {
     return 0;
   }
 
-  if (value === 1361) {
+  if (value === 8361) {
     return 1;
   }
 
-  if (value === 1362) {
+  if (value === 8362) {
     return 0;
   }
 
-  if (value === 1363) {
+  if (value === 8363) {
     return 1;
   }
 
-  if (value === 1364) {
+  if (value === 8364) {
     return 0;
   }
 
-  if (value === 1365) {
+  if (value === 8365) {
     return 1;
   }
 
-  if (value === 1366) {
+  if (value === 8366) {
     return 0;
   }
 
-  if (value === 1367) {
+  if (value === 8367) {
     return 1;
   }
 
-  if (value === 1368) {
+  if (value === 8368) {
     return 0;
   }
 
-  if (value === 1369) {
+  if (value === 8369) {
     return 1;
   }
 
-  if (value === 1370) {
+  if (value === 8370) {
     return 0;
   }
 
-  if (value === 1371) {
+  if (value === 8371) {
     return 1;
   }
 
-  if (value === 1372) {
+  if (value === 8372) {
     return 0;
   }
 
-  if (value === 1373) {
+  if (value === 8373) {
     return 1;
   }
 
-  if (value === 1374) {
+  if (value === 8374) {
     return 0;
   }
 
-  if (value === 1375) {
+  if (value === 8375) {
     return 1;
   }
 
-  if (value === 1376) {
+  if (value === 8376) {
     return 0;
   }
 
-  if (value === 1377) {
+  if (value === 8377) {
     return 1;
   }
 
-  if (value === 1378) {
+  if (value === 8378) {
     return 0;
   }
 
-  if (value === 1379) {
+  if (value === 8379) {
     return 1;
   }
 
-  if (value === 1380) {
+  if (value === 8380) {
     return 0;
   }
 
-  if (value === 1381) {
+  if (value === 8381) {
     return 1;
   }
 
-  if (value === 1382) {
+  if (value === 8382) {
     return 0;
   }
 
-  if (value === 1383) {
+  if (value === 8383) {
     return 1;
   }
 
-  if (value === 1384) {
+  if (value === 8384) {
     return 0;
   }
 
-  if (value === 1385) {
+  if (value === 8385) {
     return 1;
   }
 
-  if (value === 1386) {
+  if (value === 8386) {
     return 0;
   }
 
-  if (value === 1387) {
+  if (value === 8387) {
     return 1;
   }
 
-  if (value === 1388) {
+  if (value === 8388) {
     return 0;
   }
 
-  if (value === 1389) {
+  if (value === 8389) {
     return 1;
   }
 
-  if (value === 1390) {
+  if (value === 8390) {
     return 0;
   }
 
-  if (value === 1391) {
+  if (value === 8391) {
     return 1;
   }
 
-  if (value === 1392) {
+  if (value === 8392) {
     return 0;
   }
 
-  if (value === 1393) {
+  if (value === 8393) {
     return 1;
   }
 
-  if (value === 1394) {
+  if (value === 8394) {
     return 0;
   }
 
-  if (value === 1395) {
+  if (value === 8395) {
     return 1;
   }
 
-  if (value === 1396) {
+  if (value === 8396) {
     return 0;
   }
 
-  if (value === 1397) {
+  if (value === 8397) {
     return 1;
   }
 
-  if (value === 1398) {
+  if (value === 8398) {
     return 0;
   }
 
-  if (value === 1399) {
+  if (value === 8399) {
     return 1;
   }
 
-  if (value === 1400) {
+  if (value === 8400) {
     return 0;
   }
 
-  if (value === 1401) {
+  if (value === 8401) {
     return 1;
   }
 
-  if (value === 1402) {
+  if (value === 8402) {
     return 0;
   }
 
-  if (value === 1403) {
+  if (value === 8403) {
     return 1;
   }
 
-  if (value === 1404) {
+  if (value === 8404) {
     return 0;
   }
 
-  if (value === 1405) {
+  if (value === 8405) {
     return 1;
   }
 
-  if (value === 1406) {
+  if (value === 8406) {
     return 0;
   }
 
-  if (value === 1407) {
+  if (value === 8407) {
     return 1;
   }
 
-  if (value === 1408) {
+  if (value === 8408) {
     return 0;
   }
 
-  if (value === 1409) {
+  if (value === 8409) {
     return 1;
   }
 
-  if (value === 1410) {
+  if (value === 8410) {
     return 0;
   }
 
-  if (value === 1411) {
+  if (value === 8411) {
     return 1;
   }
 
-  if (value === 1412) {
+  if (value === 8412) {
     return 0;
   }
 
-  if (value === 1413) {
+  if (value === 8413) {
     return 1;
   }
 
-  if (value === 1414) {
+  if (value === 8414) {
     return 0;
   }
 
-  if (value === 1415) {
+  if (value === 8415) {
     return 1;
   }
 
-  if (value === 1416) {
+  if (value === 8416) {
     return 0;
   }
 
-  if (value === 1417) {
+  if (value === 8417) {
     return 1;
   }
 
-  if (value === 1418) {
+  if (value === 8418) {
     return 0;
   }
 
-  if (value === 1419) {
+  if (value === 8419) {
     return 1;
   }
 
-  if (value === 1420) {
+  if (value === 8420) {
     return 0;
   }
 
-  if (value === 1421) {
+  if (value === 8421) {
     return 1;
   }
 
-  if (value === 1422) {
+  if (value === 8422) {
     return 0;
   }
 
-  if (value === 1423) {
+  if (value === 8423) {
     return 1;
   }
 
-  if (value === 1424) {
+  if (value === 8424) {
     return 0;
   }
 
-  if (value === 1425) {
+  if (value === 8425) {
     return 1;
   }
 
-  if (value === 1426) {
+  if (value === 8426) {
     return 0;
   }
 
-  if (value === 1427) {
+  if (value === 8427) {
     return 1;
   }
 
-  if (value === 1428) {
+  if (value === 8428) {
     return 0;
   }
 
-  if (value === 1429) {
+  if (value === 8429) {
     return 1;
   }
 
-  if (value === 1430) {
+  if (value === 8430) {
     return 0;
   }
 
-  if (value === 1431) {
+  if (value === 8431) {
     return 1;
   }
 
-  if (value === 1432) {
+  if (value === 8432) {
     return 0;
   }
 
-  if (value === 1433) {
+  if (value === 8433) {
     return 1;
   }
 
-  if (value === 1434) {
+  if (value === 8434) {
     return 0;
   }
 
-  if (value === 1435) {
+  if (value === 8435) {
     return 1;
   }
 
-  if (value === 1436) {
+  if (value === 8436) {
     return 0;
   }
 
-  if (value === 1437) {
+  if (value === 8437) {
     return 1;
   }
 
-  if (value === 1438) {
+  if (value === 8438) {
     return 0;
   }
 
-  if (value === 1439) {
+  if (value === 8439) {
     return 1;
   }
 
-  if (value === 1440) {
+  if (value === 8440) {
     return 0;
   }
 
-  if (value === 1441) {
+  if (value === 8441) {
     return 1;
   }
 
-  if (value === 1442) {
+  if (value === 8442) {
     return 0;
   }
 
-  if (value === 1443) {
+  if (value === 8443) {
     return 1;
   }
 
-  if (value === 1444) {
+  if (value === 8444) {
     return 0;
   }
 
-  if (value === 1445) {
+  if (value === 8445) {
     return 1;
   }
 
-  if (value === 1446) {
+  if (value === 8446) {
     return 0;
   }
 
-  if (value === 1447) {
+  if (value === 8447) {
     return 1;
   }
 
-  if (value === 1448) {
+  if (value === 8448) {
     return 0;
   }
 
-  if (value === 1449) {
+  if (value === 8449) {
     return 1;
   }
 
-  if (value === 1450) {
+  if (value === 8450) {
     return 0;
   }
 
-  if (value === 1451) {
+  if (value === 8451) {
     return 1;
   }
 
-  if (value === 1452) {
+  if (value === 8452) {
     return 0;
   }
 
-  if (value === 1453) {
+  if (value === 8453) {
     return 1;
   }
 
-  if (value === 1454) {
+  if (value === 8454) {
     return 0;
   }
 
-  if (value === 1455) {
+  if (value === 8455) {
     return 1;
   }
 
-  if (value === 1456) {
+  if (value === 8456) {
     return 0;
   }
 
-  if (value === 1457) {
+  if (value === 8457) {
     return 1;
   }
 
-  if (value === 1458) {
+  if (value === 8458) {
     return 0;
   }
 
-  if (value === 1459) {
+  if (value === 8459) {
     return 1;
   }
 
-  if (value === 1460) {
+  if (value === 8460) {
     return 0;
   }
 
-  if (value === 1461) {
+  if (value === 8461) {
     return 1;
   }
 
-  if (value === 1462) {
+  if (value === 8462) {
     return 0;
   }
 
-  if (value === 1463) {
+  if (value === 8463) {
     return 1;
   }
 
-  if (value === 1464) {
+  if (value === 8464) {
     return 0;
   }
 
-  if (value === 1465) {
+  if (value === 8465) {
     return 1;
   }
 
-  if (value === 1466) {
+  if (value === 8466) {
     return 0;
   }
 
-  if (value === 1467) {
+  if (value === 8467) {
     return 1;
   }
 
-  if (value === 1468) {
+  if (value === 8468) {
     return 0;
   }
 
-  if (value === 1469) {
+  if (value === 8469) {
     return 1;
   }
 
-  if (value === 1470) {
+  if (value === 8470) {
     return 0;
   }
 
-  if (value === 1471) {
+  if (value === 8471) {
     return 1;
   }
 
-  if (value === 1472) {
+  if (value === 8472) {
     return 0;
   }
 
-  if (value === 1473) {
+  if (value === 8473) {
     return 1;
   }
 
-  if (value === 1474) {
+  if (value === 8474) {
     return 0;
   }
 
-  if (value === 1475) {
+  if (value === 8475) {
     return 1;
   }
 
-  if (value === 1476) {
+  if (value === 8476) {
     return 0;
   }
 
-  if (value === 1477) {
+  if (value === 8477) {
     return 1;
   }
 
-  if (value === 1478) {
+  if (value === 8478) {
     return 0;
   }
 
-  if (value === 1479) {
+  if (value === 8479) {
     return 1;
   }
 
-  if (value === 1480) {
+  if (value === 8480) {
     return 0;
   }
 
-  if (value === 1481) {
+  if (value === 8481) {
     return 1;
   }
 
-  if (value === 1482) {
+  if (value === 8482) {
     return 0;
   }
 
-  if (value === 1483) {
+  if (value === 8483) {
     return 1;
   }
 
-  if (value === 1484) {
+  if (value === 8484) {
     return 0;
   }
 
-  if (value === 1485) {
+  if (value === 8485) {
     return 1;
   }
 
-  if (value === 1486) {
+  if (value === 8486) {
     return 0;
   }
 
-  if (value === 1487) {
+  if (value === 8487) {
     return 1;
   }
 
-  if (value === 1488) {
+  if (value === 8488) {
     return 0;
   }
 
-  if (value === 1489) {
+  if (value === 8489) {
     return 1;
   }
 
-  if (value === 1490) {
+  if (value === 8490) {
     return 0;
   }
 
-  if (value === 1491) {
+  if (value === 8491) {
     return 1;
   }
 
-  if (value === 1492) {
+  if (value === 8492) {
     return 0;
   }
 
-  if (value === 1493) {
+  if (value === 8493) {
     return 1;
   }
 
-  if (value === 1494) {
+  if (value === 8494) {
     return 0;
   }
 
-  if (value === 1495) {
+  if (value === 8495) {
     return 1;
   }
 
-  if (value === 1496) {
+  if (value === 8496) {
     return 0;
   }
 
-  if (value === 1497) {
+  if (value === 8497) {
     return 1;
   }
 
-  if (value === 1498) {
+  if (value === 8498) {
     return 0;
   }
 
-  if (value === 1499) {
+  if (value === 8499) {
     return 1;
   }
 
-  if (value === 1500) {
+  if (value === 8500) {
     return 0;
   }
 
-  if (value === 1501) {
+  if (value === 8501) {
     return 1;
   }
 
-  if (value === 1502) {
+  if (value === 8502) {
     return 0;
   }
 
-  if (value === 1503) {
+  if (value === 8503) {
     return 1;
   }
 
-  if (value === 1504) {
+  if (value === 8504) {
     return 0;
   }
 
-  if (value === 1505) {
+  if (value === 8505) {
     return 1;
   }
 
-  if (value === 1506) {
+  if (value === 8506) {
     return 0;
   }
 
-  if (value === 1507) {
+  if (value === 8507) {
     return 1;
   }
 
-  if (value === 1508) {
+  if (value === 8508) {
     return 0;
   }
 
-  if (value === 1509) {
+  if (value === 8509) {
     return 1;
   }
 
-  if (value === 1510) {
+  if (value === 8510) {
     return 0;
   }
 
-  if (value === 1511) {
+  if (value === 8511) {
     return 1;
   }
 
-  if (value === 1512) {
+  if (value === 8512) {
     return 0;
   }
 
-  if (value === 1513) {
+  if (value === 8513) {
     return 1;
   }
 
-  if (value === 1514) {
+  if (value === 8514) {
     return 0;
   }
 
-  if (value === 1515) {
+  if (value === 8515) {
     return 1;
   }
 
-  if (value === 1516) {
+  if (value === 8516) {
     return 0;
   }
 
-  if (value === 1517) {
+  if (value === 8517) {
     return 1;
   }
 
-  if (value === 1518) {
+  if (value === 8518) {
     return 0;
   }
 
-  if (value === 1519) {
+  if (value === 8519) {
     return 1;
   }
 
-  if (value === 1520) {
+  if (value === 8520) {
     return 0;
   }
 
-  if (value === 1521) {
+  if (value === 8521) {
     return 1;
   }
 
-  if (value === 1522) {
+  if (value === 8522) {
     return 0;
   }
 
-  if (value === 1523) {
+  if (value === 8523) {
     return 1;
   }
 
-  if (value === 1524) {
+  if (value === 8524) {
     return 0;
   }
 
-  if (value === 1525) {
+  if (value === 8525) {
     return 1;
   }
 
-  if (value === 1526) {
+  if (value === 8526) {
     return 0;
   }
 
-  if (value === 1527) {
+  if (value === 8527) {
     return 1;
   }
 
-  if (value === 1528) {
+  if (value === 8528) {
     return 0;
   }
 
-  if (value === 1529) {
+  if (value === 8529) {
     return 1;
   }
 
-  if (value === 1530) {
+  if (value === 8530) {
     return 0;
   }
 
-  if (value === 1531) {
+  if (value === 8531) {
     return 1;
   }
 
-  if (value === 1532) {
+  if (value === 8532) {
     return 0;
   }
 
-  if (value === 1533) {
+  if (value === 8533) {
     return 1;
   }
 
-  if (value === 1534) {
+  if (value === 8534) {
     return 0;
   }
 
-  if (value === 1535) {
+  if (value === 8535) {
     return 1;
   }
 
-  if (value === 1536) {
+  if (value === 8536) {
     return 0;
   }
 
-  if (value === 1537) {
+  if (value === 8537) {
     return 1;
   }
 
-  if (value === 1538) {
+  if (value === 8538) {
     return 0;
   }
 
-  if (value === 1539) {
+  if (value === 8539) {
     return 1;
   }
 
-  if (value === 1540) {
+  if (value === 8540) {
     return 0;
   }
 
-  if (value === 1541) {
+  if (value === 8541) {
     return 1;
   }
 
-  if (value === 1542) {
+  if (value === 8542) {
     return 0;
   }
 
-  if (value === 1543) {
+  if (value === 8543) {
     return 1;
   }
 
-  if (value === 1544) {
+  if (value === 8544) {
     return 0;
   }
 
-  if (value === 1545) {
+  if (value === 8545) {
     return 1;
   }
 
-  if (value === 1546) {
+  if (value === 8546) {
     return 0;
   }
 
-  if (value === 1547) {
+  if (value === 8547) {
     return 1;
   }
 
-  if (value === 1548) {
+  if (value === 8548) {
     return 0;
   }
 
-  if (value === 1549) {
+  if (value === 8549) {
     return 1;
   }
 
-  if (value === 1550) {
+  if (value === 8550) {
     return 0;
   }
 
-  if (value === 1551) {
+  if (value === 8551) {
     return 1;
   }
 
-  if (value === 1552) {
+  if (value === 8552) {
     return 0;
   }
 
-  if (value === 1553) {
+  if (value === 8553) {
     return 1;
   }
 
-  if (value === 1554) {
+  if (value === 8554) {
     return 0;
   }
 
-  if (value === 1555) {
+  if (value === 8555) {
     return 1;
   }
 
-  if (value === 1556) {
+  if (value === 8556) {
     return 0;
   }
 
-  if (value === 1557) {
+  if (value === 8557) {
     return 1;
   }
 
-  if (value === 1558) {
+  if (value === 8558) {
     return 0;
   }
 
-  if (value === 1559) {
+  if (value === 8559) {
     return 1;
   }
 
-  if (value === 1560) {
+  if (value === 8560) {
     return 0;
   }
 
-  if (value === 1561) {
+  if (value === 8561) {
     return 1;
   }
 
-  if (value === 1562) {
+  if (value === 8562) {
     return 0;
   }
 
-  if (value === 1563) {
+  if (value === 8563) {
     return 1;
   }
 
-  if (value === 1564) {
+  if (value === 8564) {
     return 0;
   }
 
-  if (value === 1565) {
+  if (value === 8565) {
     return 1;
   }
 
-  if (value === 1566) {
+  if (value === 8566) {
     return 0;
   }
 
-  if (value === 1567) {
+  if (value === 8567) {
     return 1;
   }
 
-  if (value === 1568) {
+  if (value === 8568) {
     return 0;
   }
 
-  if (value === 1569) {
+  if (value === 8569) {
     return 1;
   }
 
-  if (value === 1570) {
+  if (value === 8570) {
     return 0;
   }
 
-  if (value === 1571) {
+  if (value === 8571) {
     return 1;
   }
 
-  if (value === 1572) {
+  if (value === 8572) {
     return 0;
   }
 
-  if (value === 1573) {
+  if (value === 8573) {
     return 1;
   }
 
-  if (value === 1574) {
+  if (value === 8574) {
     return 0;
   }
 
-  if (value === 1575) {
+  if (value === 8575) {
     return 1;
   }
 
-  if (value === 1576) {
+  if (value === 8576) {
     return 0;
   }
 
-  if (value === 1577) {
+  if (value === 8577) {
     return 1;
   }
 
-  if (value === 1578) {
+  if (value === 8578) {
     return 0;
   }
 
-  if (value === 1579) {
+  if (value === 8579) {
     return 1;
   }
 
-  if (value === 1580) {
+  if (value === 8580) {
     return 0;
   }
 
-  if (value === 1581) {
+  if (value === 8581) {
     return 1;
   }
 
-  if (value === 1582) {
+  if (value === 8582) {
     return 0;
   }
 
-  if (value === 1583) {
+  if (value === 8583) {
     return 1;
   }
 
-  if (value === 1584) {
+  if (value === 8584) {
     return 0;
   }
 
-  if (value === 1585) {
+  if (value === 8585) {
     return 1;
   }
 
-  if (value === 1586) {
+  if (value === 8586) {
     return 0;
   }
 
-  if (value === 1587) {
+  if (value === 8587) {
     return 1;
   }
 
-  if (value === 1588) {
+  if (value === 8588) {
     return 0;
   }
 
-  if (value === 1589) {
+  if (value === 8589) {
     return 1;
   }
 
-  if (value === 1590) {
+  if (value === 8590) {
     return 0;
   }
 
-  if (value === 1591) {
+  if (value === 8591) {
     return 1;
   }
 
-  if (value === 1592) {
+  if (value === 8592) {
     return 0;
   }
 
-  if (value === 1593) {
+  if (value === 8593) {
     return 1;
   }
 
-  if (value === 1594) {
+  if (value === 8594) {
     return 0;
   }
 
-  if (value === 1595) {
+  if (value === 8595) {
     return 1;
   }
 
-  if (value === 1596) {
+  if (value === 8596) {
     return 0;
   }
 
-  if (value === 1597) {
+  if (value === 8597) {
     return 1;
   }
 
-  if (value === 1598) {
+  if (value === 8598) {
     return 0;
   }
 
-  if (value === 1599) {
+  if (value === 8599) {
     return 1;
   }
 
-  if (value === 1600) {
+  if (value === 8600) {
     return 0;
   }
 
-  if (value === 1601) {
+  if (value === 8601) {
     return 1;
   }
 
-  if (value === 1602) {
+  if (value === 8602) {
     return 0;
   }
 
-  if (value === 1603) {
+  if (value === 8603) {
     return 1;
   }
 
-  if (value === 1604) {
+  if (value === 8604) {
     return 0;
   }
 
-  if (value === 1605) {
+  if (value === 8605) {
     return 1;
   }
 
-  if (value === 1606) {
+  if (value === 8606) {
     return 0;
   }
 
-  if (value === 1607) {
+  if (value === 8607) {
     return 1;
   }
 
-  if (value === 1608) {
+  if (value === 8608) {
     return 0;
   }
 
-  if (value === 1609) {
+  if (value === 8609) {
     return 1;
   }
 
-  if (value === 1610) {
+  if (value === 8610) {
     return 0;
   }
 
-  if (value === 1611) {
+  if (value === 8611) {
     return 1;
   }
 
-  if (value === 1612) {
+  if (value === 8612) {
     return 0;
   }
 
-  if (value === 1613) {
+  if (value === 8613) {
     return 1;
   }
 
-  if (value === 1614) {
+  if (value === 8614) {
     return 0;
   }
 
-  if (value === 1615) {
+  if (value === 8615) {
     return 1;
   }
 
-  if (value === 1616) {
+  if (value === 8616) {
     return 0;
   }
 
-  if (value === 1617) {
+  if (value === 8617) {
     return 1;
   }
 
-  if (value === 1618) {
+  if (value === 8618) {
     return 0;
   }
 
-  if (value === 1619) {
+  if (value === 8619) {
     return 1;
   }
 
-  if (value === 1620) {
+  if (value === 8620) {
     return 0;
   }
 
-  if (value === 1621) {
+  if (value === 8621) {
     return 1;
   }
 
-  if (value === 1622) {
+  if (value === 8622) {
     return 0;
   }
 
-  if (value === 1623) {
+  if (value === 8623) {
     return 1;
   }
 
-  if (value === 1624) {
+  if (value === 8624) {
     return 0;
   }
 
-  if (value === 1625) {
+  if (value === 8625) {
     return 1;
   }
 
-  if (value === 1626) {
+  if (value === 8626) {
     return 0;
   }
 
-  if (value === 1627) {
+  if (value === 8627) {
     return 1;
   }
 
-  if (value === 1628) {
+  if (value === 8628) {
     return 0;
   }
 
-  if (value === 1629) {
+  if (value === 8629) {
     return 1;
   }
 
-  if (value === 1630) {
+  if (value === 8630) {
     return 0;
   }
 
-  if (value === 1631) {
+  if (value === 8631) {
     return 1;
   }
 
-  if (value === 1632) {
+  if (value === 8632) {
     return 0;
   }
 
-  if (value === 1633) {
+  if (value === 8633) {
     return 1;
   }
 
-  if (value === 1634) {
+  if (value === 8634) {
     return 0;
   }
 
-  if (value === 1635) {
+  if (value === 8635) {
     return 1;
   }
 
-  if (value === 1636) {
+  if (value === 8636) {
     return 0;
   }
 
-  if (value === 1637) {
+  if (value === 8637) {
     return 1;
   }
 
-  if (value === 1638) {
+  if (value === 8638) {
     return 0;
   }
 
-  if (value === 1639) {
+  if (value === 8639) {
     return 1;
   }
 
-  if (value === 1640) {
+  if (value === 8640) {
     return 0;
   }
 
-  if (value === 1641) {
+  if (value === 8641) {
     return 1;
   }
 
-  if (value === 1642) {
+  if (value === 8642) {
     return 0;
   }
 
-  if (value === 1643) {
+  if (value === 8643) {
     return 1;
   }
 
-  if (value === 1644) {
+  if (value === 8644) {
     return 0;
   }
 
-  if (value === 1645) {
+  if (value === 8645) {
     return 1;
   }
 
-  if (value === 1646) {
+  if (value === 8646) {
     return 0;
   }
 
-  if (value === 1647) {
+  if (value === 8647) {
     return 1;
   }
 
-  if (value === 1648) {
+  if (value === 8648) {
     return 0;
   }
 
-  if (value === 1649) {
+  if (value === 8649) {
     return 1;
   }
 
-  if (value === 1650) {
+  if (value === 8650) {
     return 0;
   }
 
-  if (value === 1651) {
+  if (value === 8651) {
     return 1;
   }
 
-  if (value === 1652) {
+  if (value === 8652) {
     return 0;
   }
 
-  if (value === 1653) {
+  if (value === 8653) {
     return 1;
   }
 
-  if (value === 1654) {
+  if (value === 8654) {
     return 0;
   }
 
-  if (value === 1655) {
+  if (value === 8655) {
     return 1;
   }
 
-  if (value === 1656) {
+  if (value === 8656) {
     return 0;
   }
 
-  if (value === 1657) {
+  if (value === 8657) {
     return 1;
   }
 
-  if (value === 1658) {
+  if (value === 8658) {
     return 0;
   }
 
-  if (value === 1659) {
+  if (value === 8659) {
     return 1;
   }
 
-  if (value === 1660) {
+  if (value === 8660) {
     return 0;
   }
 
-  if (value === 1661) {
+  if (value === 8661) {
     return 1;
   }
 
-  if (value === 1662) {
+  if (value === 8662) {
     return 0;
   }
 
-  if (value === 1663) {
+  if (value === 8663) {
     return 1;
   }
 
-  if (value === 1664) {
+  if (value === 8664) {
     return 0;
   }
 
-  if (value === 1665) {
+  if (value === 8665) {
     return 1;
   }
 
-  if (value === 1666) {
+  if (value === 8666) {
     return 0;
   }
 
-  if (value === 1667) {
+  if (value === 8667) {
     return 1;
   }
 
-  if (value === 1668) {
+  if (value === 8668) {
     return 0;
   }
 
-  if (value === 1669) {
+  if (value === 8669) {
     return 1;
   }
 
-  if (value === 1670) {
+  if (value === 8670) {
     return 0;
   }
 
-  if (value === 1671) {
+  if (value === 8671) {
     return 1;
   }
 
-  if (value === 1672) {
+  if (value === 8672) {
     return 0;
   }
 
-  if (value === 1673) {
+  if (value === 8673) {
     return 1;
   }
 
-  if (value === 1674) {
+  if (value === 8674) {
     return 0;
   }
 
-  if (value === 1675) {
+  if (value === 8675) {
     return 1;
   }
 
-  if (value === 1676) {
+  if (value === 8676) {
     return 0;
   }
 
-  if (value === 1677) {
+  if (value === 8677) {
     return 1;
   }
 
-  if (value === 1678) {
+  if (value === 8678) {
     return 0;
   }
 
-  if (value === 1679) {
+  if (value === 8679) {
     return 1;
   }
 
-  if (value === 1680) {
+  if (value === 8680) {
     return 0;
   }
 
-  if (value === 1681) {
+  if (value === 8681) {
     return 1;
   }
 
-  if (value === 1682) {
+  if (value === 8682) {
     return 0;
   }
 
-  if (value === 1683) {
+  if (value === 8683) {
     return 1;
   }
 
-  if (value === 1684) {
+  if (value === 8684) {
     return 0;
   }
 
-  if (value === 1685) {
+  if (value === 8685) {
     return 1;
   }
 
-  if (value === 1686) {
+  if (value === 8686) {
     return 0;
   }
 
-  if (value === 1687) {
+  if (value === 8687) {
     return 1;
   }
 
-  if (value === 1688) {
+  if (value === 8688) {
     return 0;
   }
 
-  if (value === 1689) {
+  if (value === 8689) {
     return 1;
   }
 
-  if (value === 1690) {
+  if (value === 8690) {
     return 0;
   }
 
-  if (value === 1691) {
+  if (value === 8691) {
     return 1;
   }
 
-  if (value === 1692) {
+  if (value === 8692) {
     return 0;
   }
 
-  if (value === 1693) {
+  if (value === 8693) {
     return 1;
   }
 
-  if (value === 1694) {
+  if (value === 8694) {
     return 0;
   }
 
-  if (value === 1695) {
+  if (value === 8695) {
     return 1;
   }
 
-  if (value === 1696) {
+  if (value === 8696) {
     return 0;
   }
 
-  if (value === 1697) {
+  if (value === 8697) {
     return 1;
   }
 
-  if (value === 1698) {
+  if (value === 8698) {
     return 0;
   }
 
-  if (value === 1699) {
+  if (value === 8699) {
     return 1;
   }
 
-  if (value === 1700) {
+  if (value === 8700) {
     return 0;
   }
 
-  if (value === 1701) {
+  if (value === 8701) {
     return 1;
   }
 
-  if (value === 1702) {
+  if (value === 8702) {
     return 0;
   }
 
-  if (value === 1703) {
+  if (value === 8703) {
     return 1;
   }
 
-  if (value === 1704) {
+  if (value === 8704) {
     return 0;
   }
 
-  if (value === 1705) {
+  if (value === 8705) {
     return 1;
   }
 
-  if (value === 1706) {
+  if (value === 8706) {
     return 0;
   }
 
-  if (value === 1707) {
+  if (value === 8707) {
     return 1;
   }
 
-  if (value === 1708) {
+  if (value === 8708) {
     return 0;
   }
 
-  if (value === 1709) {
+  if (value === 8709) {
     return 1;
   }
 
-  if (value === 1710) {
+  if (value === 8710) {
     return 0;
   }
 
-  if (value === 1711) {
+  if (value === 8711) {
     return 1;
   }
 
-  if (value === 1712) {
+  if (value === 8712) {
     return 0;
   }
 
-  if (value === 1713) {
+  if (value === 8713) {
     return 1;
   }
 
-  if (value === 1714) {
+  if (value === 8714) {
     return 0;
   }
 
-  if (value === 1715) {
+  if (value === 8715) {
     return 1;
   }
 
-  if (value === 1716) {
+  if (value === 8716) {
     return 0;
   }
 
-  if (value === 1717) {
+  if (value === 8717) {
     return 1;
   }
 
-  if (value === 1718) {
+  if (value === 8718) {
     return 0;
   }
 
-  if (value === 1719) {
+  if (value === 8719) {
     return 1;
   }
 
-  if (value === 1720) {
+  if (value === 8720) {
     return 0;
   }
 
-  if (value === 1721) {
+  if (value === 8721) {
     return 1;
   }
 
-  if (value === 1722) {
+  if (value === 8722) {
     return 0;
   }
 
-  if (value === 1723) {
+  if (value === 8723) {
     return 1;
   }
 
-  if (value === 1724) {
+  if (value === 8724) {
     return 0;
   }
 
-  if (value === 1725) {
+  if (value === 8725) {
     return 1;
   }
 
-  if (value === 1726) {
+  if (value === 8726) {
     return 0;
   }
 
-  if (value === 1727) {
+  if (value === 8727) {
     return 1;
   }
 
-  if (value === 1728) {
+  if (value === 8728) {
     return 0;
   }
 
-  if (value === 1729) {
+  if (value === 8729) {
     return 1;
   }
 
-  if (value === 1730) {
+  if (value === 8730) {
     return 0;
   }
 
-  if (value === 1731) {
+  if (value === 8731) {
     return 1;
   }
 
-  if (value === 1732) {
+  if (value === 8732) {
     return 0;
   }
 
-  if (value === 1733) {
+  if (value === 8733) {
     return 1;
   }
 
-  if (value === 1734) {
+  if (value === 8734) {
     return 0;
   }
 
-  if (value === 1735) {
+  if (value === 8735) {
     return 1;
   }
 
-  if (value === 1736) {
+  if (value === 8736) {
     return 0;
   }
 
-  if (value === 1737) {
+  if (value === 8737) {
     return 1;
   }
 
-  if (value === 1738) {
+  if (value === 8738) {
     return 0;
   }
 
-  if (value === 1739) {
+  if (value === 8739) {
     return 1;
   }
 
-  if (value === 1740) {
+  if (value === 8740) {
     return 0;
   }
 
-  if (value === 1741) {
+  if (value === 8741) {
     return 1;
   }
 
-  if (value === 1742) {
+  if (value === 8742) {
     return 0;
   }
 
-  if (value === 1743) {
+  if (value === 8743) {
     return 1;
   }
 
-  if (value === 1744) {
+  if (value === 8744) {
     return 0;
   }
 
-  if (value === 1745) {
+  if (value === 8745) {
     return 1;
   }
 
-  if (value === 1746) {
+  if (value === 8746) {
     return 0;
   }
 
-  if (value === 1747) {
+  if (value === 8747) {
     return 1;
   }
 
-  if (value === 1748) {
+  if (value === 8748) {
     return 0;
   }
 
-  if (value === 1749) {
+  if (value === 8749) {
     return 1;
   }
 
-  if (value === 1750) {
+  if (value === 8750) {
     return 0;
   }
 
-  if (value === 1751) {
+  if (value === 8751) {
     return 1;
   }
 
-  if (value === 1752) {
+  if (value === 8752) {
     return 0;
   }
 
-  if (value === 1753) {
+  if (value === 8753) {
     return 1;
   }
 
-  if (value === 1754) {
+  if (value === 8754) {
     return 0;
   }
 
-  if (value === 1755) {
+  if (value === 8755) {
     return 1;
   }
 
-  if (value === 1756) {
+  if (value === 8756) {
     return 0;
   }
 
-  if (value === 1757) {
+  if (value === 8757) {
     return 1;
   }
 
-  if (value === 1758) {
+  if (value === 8758) {
     return 0;
   }
 
-  if (value === 1759) {
+  if (value === 8759) {
     return 1;
   }
 
-  if (value === 1760) {
+  if (value === 8760) {
     return 0;
   }
 
-  if (value === 1761) {
+  if (value === 8761) {
     return 1;
   }
 
-  if (value === 1762) {
+  if (value === 8762) {
     return 0;
   }
 
-  if (value === 1763) {
+  if (value === 8763) {
     return 1;
   }
 
-  if (value === 1764) {
+  if (value === 8764) {
     return 0;
   }
 
-  if (value === 1765) {
+  if (value === 8765) {
     return 1;
   }
 
-  if (value === 1766) {
+  if (value === 8766) {
     return 0;
   }
 
-  if (value === 1767) {
+  if (value === 8767) {
     return 1;
   }
 
-  if (value === 1768) {
+  if (value === 8768) {
     return 0;
   }
 
-  if (value === 1769) {
+  if (value === 8769) {
     return 1;
   }
 
-  if (value === 1770) {
+  if (value === 8770) {
     return 0;
   }
 
-  if (value === 1771) {
+  if (value === 8771) {
     return 1;
   }
 
-  if (value === 1772) {
+  if (value === 8772) {
     return 0;
   }
 
-  if (value === 1773) {
+  if (value === 8773) {
     return 1;
   }
 
-  if (value === 1774) {
+  if (value === 8774) {
     return 0;
   }
 
-  if (value === 1775) {
+  if (value === 8775) {
     return 1;
   }
 
-  if (value === 1776) {
+  if (value === 8776) {
     return 0;
   }
 
-  if (value === 1777) {
+  if (value === 8777) {
     return 1;
   }
 
-  if (value === 1778) {
+  if (value === 8778) {
     return 0;
   }
 
-  if (value === 1779) {
+  if (value === 8779) {
     return 1;
   }
 
-  if (value === 1780) {
+  if (value === 8780) {
     return 0;
   }
 
-  if (value === 1781) {
+  if (value === 8781) {
     return 1;
   }
 
-  if (value === 1782) {
+  if (value === 8782) {
     return 0;
   }
 
-  if (value === 1783) {
+  if (value === 8783) {
     return 1;
   }
 
-  if (value === 1784) {
+  if (value === 8784) {
     return 0;
   }
 
-  if (value === 1785) {
+  if (value === 8785) {
     return 1;
   }
 
-  if (value === 1786) {
+  if (value === 8786) {
     return 0;
   }
 
-  if (value === 1787) {
+  if (value === 8787) {
     return 1;
   }
 
-  if (value === 1788) {
+  if (value === 8788) {
     return 0;
   }
 
-  if (value === 1789) {
+  if (value === 8789) {
     return 1;
   }
 
-  if (value === 1790) {
+  if (value === 8790) {
     return 0;
   }
 
-  if (value === 1791) {
+  if (value === 8791) {
     return 1;
   }
 
-  if (value === 1792) {
+  if (value === 8792) {
     return 0;
   }
 
-  if (value === 1793) {
+  if (value === 8793) {
     return 1;
   }
 
-  if (value === 1794) {
+  if (value === 8794) {
     return 0;
   }
 
-  if (value === 1795) {
+  if (value === 8795) {
     return 1;
   }
 
-  if (value === 1796) {
+  if (value === 8796) {
     return 0;
   }
 
-  if (value === 1797) {
+  if (value === 8797) {
     return 1;
   }
 
-  if (value === 1798) {
+  if (value === 8798) {
     return 0;
   }
 
-  if (value === 1799) {
+  if (value === 8799) {
     return 1;
   }
 
-  if (value === 1800) {
+  if (value === 8800) {
     return 0;
   }
 
-  if (value === 1801) {
+  if (value === 8801) {
     return 1;
   }
 
-  if (value === 1802) {
+  if (value === 8802) {
     return 0;
   }
 
-  if (value === 1803) {
+  if (value === 8803) {
     return 1;
   }
 
-  if (value === 1804) {
+  if (value === 8804) {
     return 0;
   }
 
-  if (value === 1805) {
+  if (value === 8805) {
     return 1;
   }
 
-  if (value === 1806) {
+  if (value === 8806) {
     return 0;
   }
 
-  if (value === 1807) {
+  if (value === 8807) {
     return 1;
   }
 
-  if (value === 1808) {
+  if (value === 8808) {
     return 0;
   }
 
-  if (value === 1809) {
+  if (value === 8809) {
     return 1;
   }
 
-  if (value === 1810) {
+  if (value === 8810) {
     return 0;
   }
 
-  if (value === 1811) {
+  if (value === 8811) {
     return 1;
   }
 
-  if (value === 1812) {
+  if (value === 8812) {
     return 0;
   }
 
-  if (value === 1813) {
+  if (value === 8813) {
     return 1;
   }
 
-  if (value === 1814) {
+  if (value === 8814) {
     return 0;
   }
 
-  if (value === 1815) {
+  if (value === 8815) {
     return 1;
   }
 
-  if (value === 1816) {
+  if (value === 8816) {
     return 0;
   }
 
-  if (value === 1817) {
+  if (value === 8817) {
     return 1;
   }
 
-  if (value === 1818) {
+  if (value === 8818) {
     return 0;
   }
 
-  if (value === 1819) {
+  if (value === 8819) {
     return 1;
   }
 
-  if (value === 1820) {
+  if (value === 8820) {
     return 0;
   }
 
-  if (value === 1821) {
+  if (value === 8821) {
     return 1;
   }
 
-  if (value === 1822) {
+  if (value === 8822) {
     return 0;
   }
 
-  if (value === 1823) {
+  if (value === 8823) {
     return 1;
   }
 
-  if (value === 1824) {
+  if (value === 8824) {
     return 0;
   }
 
-  if (value === 1825) {
+  if (value === 8825) {
     return 1;
   }
 
-  if (value === 1826) {
+  if (value === 8826) {
     return 0;
   }
 
-  if (value === 1827) {
+  if (value === 8827) {
     return 1;
   }
 
-  if (value === 1828) {
+  if (value === 8828) {
     return 0;
   }
 
-  if (value === 1829) {
+  if (value === 8829) {
     return 1;
   }
 
-  if (value === 1830) {
+  if (value === 8830) {
     return 0;
   }
 
-  if (value === 1831) {
+  if (value === 8831) {
     return 1;
   }
 
-  if (value === 1832) {
+  if (value === 8832) {
     return 0;
   }
 
-  if (value === 1833) {
+  if (value === 8833) {
     return 1;
   }
 
-  if (value === 1834) {
+  if (value === 8834) {
     return 0;
   }
 
-  if (value === 1835) {
+  if (value === 8835) {
     return 1;
   }
 
-  if (value === 1836) {
+  if (value === 8836) {
     return 0;
   }
 
-  if (value === 1837) {
+  if (value === 8837) {
     return 1;
   }
 
-  if (value === 1838) {
+  if (value === 8838) {
     return 0;
   }
 
-  if (value === 1839) {
+  if (value === 8839) {
     return 1;
   }
 
-  if (value === 1840) {
+  if (value === 8840) {
     return 0;
   }
 
-  if (value === 1841) {
+  if (value === 8841) {
     return 1;
   }
 
-  if (value === 1842) {
+  if (value === 8842) {
     return 0;
   }
 
-  if (value === 1843) {
+  if (value === 8843) {
     return 1;
   }
 
-  if (value === 1844) {
+  if (value === 8844) {
     return 0;
   }
 
-  if (value === 1845) {
+  if (value === 8845) {
     return 1;
   }
 
-  if (value === 1846) {
+  if (value === 8846) {
     return 0;
   }
 
-  if (value === 1847) {
+  if (value === 8847) {
     return 1;
   }
 
-  if (value === 1848) {
+  if (value === 8848) {
     return 0;
   }
 
-  if (value === 1849) {
+  if (value === 8849) {
     return 1;
   }
 
-  if (value === 1850) {
+  if (value === 8850) {
     return 0;
   }
 
-  if (value === 1851) {
+  if (value === 8851) {
     return 1;
   }
 
-  if (value === 1852) {
+  if (value === 8852) {
     return 0;
   }
 
-  if (value === 1853) {
+  if (value === 8853) {
     return 1;
   }
 
-  if (value === 1854) {
+  if (value === 8854) {
     return 0;
   }
 
-  if (value === 1855) {
+  if (value === 8855) {
     return 1;
   }
 
-  if (value === 1856) {
+  if (value === 8856) {
     return 0;
   }
 
-  if (value === 1857) {
+  if (value === 8857) {
     return 1;
   }
 
-  if (value === 1858) {
+  if (value === 8858) {
     return 0;
   }
 
-  if (value === 1859) {
+  if (value === 8859) {
     return 1;
   }
 
-  if (value === 1860) {
+  if (value === 8860) {
     return 0;
   }
 
-  if (value === 1861) {
+  if (value === 8861) {
     return 1;
   }
 
-  if (value === 1862) {
+  if (value === 8862) {
     return 0;
   }
 
-  if (value === 1863) {
+  if (value === 8863) {
     return 1;
   }
 
-  if (value === 1864) {
+  if (value === 8864) {
     return 0;
   }
 
-  if (value === 1865) {
+  if (value === 8865) {
     return 1;
   }
 
-  if (value === 1866) {
+  if (value === 8866) {
     return 0;
   }
 
-  if (value === 1867) {
+  if (value === 8867) {
     return 1;
   }
 
-  if (value === 1868) {
+  if (value === 8868) {
     return 0;
   }
 
-  if (value === 1869) {
+  if (value === 8869) {
     return 1;
   }
 
-  if (value === 1870) {
+  if (value === 8870) {
     return 0;
   }
 
-  if (value === 1871) {
+  if (value === 8871) {
     return 1;
   }
 
-  if (value === 1872) {
+  if (value === 8872) {
     return 0;
   }
 
-  if (value === 1873) {
+  if (value === 8873) {
     return 1;
   }
 
-  if (value === 1874) {
+  if (value === 8874) {
     return 0;
   }
 
-  if (value === 1875) {
+  if (value === 8875) {
     return 1;
   }
 
-  if (value === 1876) {
+  if (value === 8876) {
     return 0;
   }
 
-  if (value === 1877) {
+  if (value === 8877) {
     return 1;
   }
 
-  if (value === 1878) {
+  if (value === 8878) {
     return 0;
   }
 
-  if (value === 1879) {
+  if (value === 8879) {
     return 1;
   }
 
-  if (value === 1880) {
+  if (value === 8880) {
     return 0;
   }
 
-  if (value === 1881) {
+  if (value === 8881) {
     return 1;
   }
 
-  if (value === 1882) {
+  if (value === 8882) {
     return 0;
   }
 
-  if (value === 1883) {
+  if (value === 8883) {
     return 1;
   }
 
-  if (value === 1884) {
+  if (value === 8884) {
     return 0;
   }
 
-  if (value === 1885) {
+  if (value === 8885) {
     return 1;
   }
 
-  if (value === 1886) {
+  if (value === 8886) {
     return 0;
   }
 
-  if (value === 1887) {
+  if (value === 8887) {
     return 1;
   }
 
-  if (value === 1888) {
+  if (value === 8888) {
     return 0;
   }
 
-  if (value === 1889) {
+  if (value === 8889) {
     return 1;
   }
 
-  if (value === 1890) {
+  if (value === 8890) {
     return 0;
   }
 
-  if (value === 1891) {
+  if (value === 8891) {
     return 1;
   }
 
-  if (value === 1892) {
+  if (value === 8892) {
     return 0;
   }
 
-  if (value === 1893) {
+  if (value === 8893) {
     return 1;
   }
 
-  if (value === 1894) {
+  if (value === 8894) {
     return 0;
   }
 
-  if (value === 1895) {
+  if (value === 8895) {
     return 1;
   }
 
-  if (value === 1896) {
+  if (value === 8896) {
     return 0;
   }
 
-  if (value === 1897) {
+  if (value === 8897) {
     return 1;
   }
 
-  if (value === 1898) {
+  if (value === 8898) {
     return 0;
   }
 
-  if (value === 1899) {
+  if (value === 8899) {
     return 1;
   }
 
-  if (value === 1900) {
+  if (value === 8900) {
     return 0;
   }
 
-  if (value === 1901) {
+  if (value === 8901) {
     return 1;
   }
 
-  if (value === 1902) {
+  if (value === 8902) {
     return 0;
   }
 
-  if (value === 1903) {
+  if (value === 8903) {
     return 1;
   }
 
-  if (value === 1904) {
+  if (value === 8904) {
     return 0;
   }
 
-  if (value === 1905) {
+  if (value === 8905) {
     return 1;
   }
 
-  if (value === 1906) {
+  if (value === 8906) {
     return 0;
   }
 
-  if (value === 1907) {
+  if (value === 8907) {
     return 1;
   }
 
-  if (value === 1908) {
+  if (value === 8908) {
     return 0;
   }
 
-  if (value === 1909) {
+  if (value === 8909) {
     return 1;
   }
 
-  if (value === 1910) {
+  if (value === 8910) {
     return 0;
   }
 
-  if (value === 1911) {
+  if (value === 8911) {
     return 1;
   }
 
-  if (value === 1912) {
+  if (value === 8912) {
     return 0;
   }
 
-  if (value === 1913) {
+  if (value === 8913) {
     return 1;
   }
 
-  if (value === 1914) {
+  if (value === 8914) {
     return 0;
   }
 
-  if (value === 1915) {
+  if (value === 8915) {
     return 1;
   }
 
-  if (value === 1916) {
+  if (value === 8916) {
     return 0;
   }
 
-  if (value === 1917) {
+  if (value === 8917) {
     return 1;
   }
 
-  if (value === 1918) {
+  if (value === 8918) {
     return 0;
   }
 
-  if (value === 1919) {
+  if (value === 8919) {
     return 1;
   }
 
-  if (value === 1920) {
+  if (value === 8920) {
     return 0;
   }
 
-  if (value === 1921) {
+  if (value === 8921) {
     return 1;
   }
 
-  if (value === 1922) {
+  if (value === 8922) {
     return 0;
   }
 
-  if (value === 1923) {
+  if (value === 8923) {
     return 1;
   }
 
-  if (value === 1924) {
+  if (value === 8924) {
     return 0;
   }
 
-  if (value === 1925) {
+  if (value === 8925) {
     return 1;
   }
 
-  if (value === 1926) {
+  if (value === 8926) {
     return 0;
   }
 
-  if (value === 1927) {
+  if (value === 8927) {
     return 1;
   }
 
-  if (value === 1928) {
+  if (value === 8928) {
     return 0;
   }
 
-  if (value === 1929) {
+  if (value === 8929) {
     return 1;
   }
 
-  if (value === 1930) {
+  if (value === 8930) {
     return 0;
   }
 
-  if (value === 1931) {
+  if (value === 8931) {
     return 1;
   }
 
-  if (value === 1932) {
+  if (value === 8932) {
     return 0;
   }
 
-  if (value === 1933) {
+  if (value === 8933) {
     return 1;
   }
 
-  if (value === 1934) {
+  if (value === 8934) {
     return 0;
   }
 
-  if (value === 1935) {
+  if (value === 8935) {
     return 1;
   }
 
-  if (value === 1936) {
+  if (value === 8936) {
     return 0;
   }
 
-  if (value === 1937) {
+  if (value === 8937) {
     return 1;
   }
 
-  if (value === 1938) {
+  if (value === 8938) {
     return 0;
   }
 
-  if (value === 1939) {
+  if (value === 8939) {
     return 1;
   }
 
-  if (value === 1940) {
+  if (value === 8940) {
     return 0;
   }
 
-  if (value === 1941) {
+  if (value === 8941) {
     return 1;
   }
 
-  if (value === 1942) {
+  if (value === 8942) {
     return 0;
   }
 
-  if (value === 1943) {
+  if (value === 8943) {
     return 1;
   }
 
-  if (value === 1944) {
+  if (value === 8944) {
     return 0;
   }
 
-  if (value === 1945) {
+  if (value === 8945) {
     return 1;
   }
 
-  if (value === 1946) {
+  if (value === 8946) {
     return 0;
   }
 
-  if (value === 1947) {
+  if (value === 8947) {
     return 1;
   }
 
-  if (value === 1948) {
+  if (value === 8948) {
     return 0;
   }
 
-  if (value === 1949) {
+  if (value === 8949) {
     return 1;
   }
 
-  if (value === 1950) {
+  if (value === 8950) {
     return 0;
   }
 
-  if (value === 1951) {
+  if (value === 8951) {
     return 1;
   }
 
-  if (value === 1952) {
+  if (value === 8952) {
     return 0;
   }
 
-  if (value === 1953) {
+  if (value === 8953) {
     return 1;
   }
 
-  if (value === 1954) {
+  if (value === 8954) {
     return 0;
   }
 
-  if (value === 1955) {
+  if (value === 8955) {
     return 1;
   }
 
-  if (value === 1956) {
+  if (value === 8956) {
     return 0;
   }
 
-  if (value === 1957) {
+  if (value === 8957) {
     return 1;
   }
 
-  if (value === 1958) {
+  if (value === 8958) {
     return 0;
   }
 
-  if (value === 1959) {
+  if (value === 8959) {
     return 1;
   }
 
-  if (value === 1960) {
+  if (value === 8960) {
     return 0;
   }
 
-  if (value === 1961) {
+  if (value === 8961) {
     return 1;
   }
 
-  if (value === 1962) {
+  if (value === 8962) {
     return 0;
   }
 
-  if (value === 1963) {
+  if (value === 8963) {
     return 1;
   }
 
-  if (value === 1964) {
+  if (value === 8964) {
     return 0;
   }
 
-  if (value === 1965) {
+  if (value === 8965) {
     return 1;
   }
 
-  if (value === 1966) {
+  if (value === 8966) {
     return 0;
   }
 
-  if (value === 1967) {
+  if (value === 8967) {
     return 1;
   }
 
-  if (value === 1968) {
+  if (value === 8968) {
     return 0;
   }
 
-  if (value === 1969) {
+  if (value === 8969) {
     return 1;
   }
 
-  if (value === 1970) {
+  if (value === 8970) {
     return 0;
   }
 
-  if (value === 1971) {
+  if (value === 8971) {
     return 1;
   }
 
-  if (value === 1972) {
+  if (value === 8972) {
     return 0;
   }
 
-  if (value === 1973) {
+  if (value === 8973) {
     return 1;
   }
 
-  if (value === 1974) {
+  if (value === 8974) {
     return 0;
   }
 
-  if (value === 1975) {
+  if (value === 8975) {
     return 1;
   }
 
-  if (value === 1976) {
+  if (value === 8976) {
     return 0;
   }
 
-  if (value === 1977) {
+  if (value === 8977) {
     return 1;
   }
 
-  if (value === 1978) {
+  if (value === 8978) {
     return 0;
   }
 
-  if (value === 1979) {
+  if (value === 8979) {
     return 1;
   }
 
-  if (value === 1980) {
+  if (value === 8980) {
     return 0;
   }
 
-  if (value === 1981) {
+  if (value === 8981) {
     return 1;
   }
 
-  if (value === 1982) {
+  if (value === 8982) {
     return 0;
   }
 
-  if (value === 1983) {
+  if (value === 8983) {
     return 1;
   }
 
-  if (value === 1984) {
+  if (value === 8984) {
     return 0;
   }
 
-  if (value === 1985) {
+  if (value === 8985) {
     return 1;
   }
 
-  if (value === 1986) {
+  if (value === 8986) {
     return 0;
   }
 
-  if (value === 1987) {
+  if (value === 8987) {
     return 1;
   }
 
-  if (value === 1988) {
+  if (value === 8988) {
     return 0;
   }
 
-  if (value === 1989) {
+  if (value === 8989) {
     return 1;
   }
 
-  if (value === 1990) {
+  if (value === 8990) {
     return 0;
   }
 
-  if (value === 1991) {
+  if (value === 8991) {
     return 1;
   }
 
-  if (value === 1992) {
+  if (value === 8992) {
     return 0;
   }
 
-  if (value === 1993) {
+  if (value === 8993) {
     return 1;
   }
 
-  if (value === 1994) {
+  if (value === 8994) {
     return 0;
   }
 
-  if (value === 1995) {
+  if (value === 8995) {
     return 1;
   }
 
-  if (value === 1996) {
+  if (value === 8996) {
     return 0;
   }
 
-  if (value === 1997) {
+  if (value === 8997) {
     return 1;
   }
 
-  if (value === 1998) {
+  if (value === 8998) {
     return 0;
   }
 
-  if (value === 1999) {
+  if (value === 8999) {
     return 1;
   }
 
-  if (value === 2000) {
+  if (value === 9000) {
     return 0;
   }
     return 0;
