@@ -1,10 +1,11 @@
 {
   "name": "mod2-troll",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Library to get remainder when dividing by 2",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc"
+    "build": "webpack",
+    "start": "webpack serve --open"
   },
   "files": [
     "dist"
@@ -21,8 +22,12 @@
   "bugs": {
     "url": "https://github.com/tmthan/mod2-troll.git/issues"
   },
-  "homepage": "https://github.com/tmthan/mod2-troll.git#readme",
+  "homepage": "https://github.com/tmthan/mod2-troll.git",
   "devDependencies": {
-    "typescript": "5.8.3"
+    "ts-loader": "9.5.2",
+    "typescript": "5.8.3",
+    "webpack": "5.99.8",
+    "webpack-cli": "6.0.1",
+    "webpack-dev-server": "5.2.1"
   }
 }
