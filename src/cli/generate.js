@@ -19,7 +19,7 @@ const [from, to] = filename.split("-");
 const functionName = `mod2From${from}To${to}`;
 const codeList = [];
 
-for (let i = from; i <= to; i++) {
+for (let i = Number(from); i <= Number(to); i++) {
   if (i % 2 === 0) {
     codeList.push(`
   if (value === ${i}) {
