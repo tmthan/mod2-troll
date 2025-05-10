@@ -8,6 +8,7 @@ module.exports = {
     library: {
       name: 'mod2-troll',
       type: 'commonjs2',
+      export: ['default', 'mod2']
     },
     globalObject: 'this',
     clean: true,
