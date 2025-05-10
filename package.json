@@ -1,6 +1,6 @@
 {
   "name": "mod2-troll",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Library to get remainder when dividing by 2",
   "main": "dist/index.js",
   "scripts": {

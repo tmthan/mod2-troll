@@ -1,0 +1,6 @@
+export function functionName(value: number): number {
+    functionBody
+    return 0;
+}
+
+export default functionName;
